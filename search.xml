@@ -3,7 +3,10 @@
   <entry>
     <title><![CDATA[firefox无法使用ss解决方法]]></title>
     <url>%2F2019%2F04%2F23%2Ffirefox%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8ss%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[ie可用但firefox与chrome均无法使用ss解决办法 今日更新后启用shadowsocks，发现firefox与chrome均无法使用，但ie可用解决方法极其智障PPPOE拨号链接在新版windows不可使用中文名称，将默认的“宽带连接”改为“HNU”（因为是校园网随便改的，只要是英文都可以）后解决]]></content>
+      <tags>
+        <tag>shadowsocks</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[首篇文章测试]]></title>
